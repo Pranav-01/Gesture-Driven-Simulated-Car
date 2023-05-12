@@ -16,13 +16,13 @@ Show the following hand signs for the corresponding directions-
     Index Middle and Ring Finger => Back
 
 Requirements:
-    -PyTorch
-    -Mediapipe
-    -Numpy
-    -PIL
-    -OpenCV
-    -PyAutoGUI
-    -TorchVision
+    PyTorch
+    Mediapipe
+    Numpy
+    PIL
+    OpenCV
+    PyAutoGUI
+    TorchVision
 
 Gazebo Simulation was taken from: https://github.com/iftkhr/two-wheeled-robot
 
