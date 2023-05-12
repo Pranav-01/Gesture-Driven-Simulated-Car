@@ -1,0 +1,2 @@
+two_wheeled_robot_ROS_tutorial-main/src/m2wr_description:two_wheeled_robot_ROS_tutorial-main/src/m2wr_motion_plan
+-DCATKIN_DEVEL_PREFIX=/home/arthur/Desktop/gazebo1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/arthur/Desktop/gazebo1_ws/install -G Unix Makefiles
